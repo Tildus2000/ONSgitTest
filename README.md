@@ -14,6 +14,10 @@ Tjabba tjena hallå
 <body>
   <h1>Hej världen!</h1>
   <p>Jag testar Git.</p>
+
+<img width="611" height="482" alt="Screenshot" src="https://github.com/user-attachments/assets/03d67c9f-4397-49c2-ae45-c2b5f9539e9a" />
+
+  
 <img src="screenshot.png" alt="skrämbild från träning med html">
 
 </body>
