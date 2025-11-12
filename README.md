@@ -14,7 +14,7 @@ Tjabba tjena hallå
 <body>
   <h1>Hej världen!</h1>
   <p>Jag testar Git.</p>
-<img src="bild.png" alt="skrämbild från träning med git och html">
+<img src="screenshot.png" alt="skrämbild från träning med html">
 
 </body>
    <p> nu testar jag en ny branch som heter test</p>
