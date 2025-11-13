@@ -1,4 +1,4 @@
-Mitt första repo - träning
+#Mitt första repo - träning
 
 *Hej detta är mitt första repo på Github, jag har gjort Johans 6 lektioner och övat på grunderna i git, HTML och VS code*
 
