@@ -9,7 +9,6 @@ Tjabba tjena hallå
 <html lang="sv">
 <head>
   <meta charset="UTF-8">
-  <title>Min första sida</title>
 </head>
 <body>
   <h1>Hej världen!</h1>
