@@ -1,6 +1,6 @@
 Mitt första repo - träning
 
-Hej detta är mitt första repo på Github, jag har gjort Johans 6 lektioner och övat på grunderna i git, HTML och VS code
+*Hej detta är mitt första repo på Github, jag har gjort Johans 6 lektioner och övat på grunderna i git, HTML och VS code*
 
 Exemempel på kod + bild i index.html:
 
@@ -17,7 +17,7 @@ Tjabba tjena hallå
 <img width="611" height="482" alt="Screenshot" src="https://github.com/user-attachments/assets/03d67c9f-4397-49c2-ae45-c2b5f9539e9a" />
 
   
-<img src="screenshot.png" alt="skrämbild från träning med html">
+
 
 </body>
    <p> nu testar jag en ny branch som heter test</p>
